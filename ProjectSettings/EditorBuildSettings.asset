@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/InvasoresDoEspaco.unity
     guid: 3da29dde5c7eab94b81212d4ec50d5fd
   m_configObjects: {}

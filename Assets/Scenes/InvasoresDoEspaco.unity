@@ -312,8 +312,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 100
@@ -869,11 +867,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 198558653380246573, guid: 3f0553549b8dc044eac949641f492079,
-        type: 3}
-      propertyPath: m_Name
-      value: Base (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 198558653380246561, guid: 3f0553549b8dc044eac949641f492079,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -933,6 +926,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.x
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 198558653380246573, guid: 3f0553549b8dc044eac949641f492079,
+        type: 3}
+      propertyPath: m_Name
+      value: Base2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f0553549b8dc044eac949641f492079, type: 3}
@@ -1380,11 +1378,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 198558653380246573, guid: 3f0553549b8dc044eac949641f492079,
-        type: 3}
-      propertyPath: m_Name
-      value: Base (2)
-      objectReference: {fileID: 0}
     - target: {fileID: 198558653380246561, guid: 3f0553549b8dc044eac949641f492079,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1444,6 +1437,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.x
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 198558653380246573, guid: 3f0553549b8dc044eac949641f492079,
+        type: 3}
+      propertyPath: m_Name
+      value: Base3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f0553549b8dc044eac949641f492079, type: 3}
@@ -2204,11 +2202,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 198558653380246573, guid: 3f0553549b8dc044eac949641f492079,
-        type: 3}
-      propertyPath: m_Name
-      value: Base (3)
-      objectReference: {fileID: 0}
     - target: {fileID: 198558653380246561, guid: 3f0553549b8dc044eac949641f492079,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2268,6 +2261,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.x
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 198558653380246573, guid: 3f0553549b8dc044eac949641f492079,
+        type: 3}
+      propertyPath: m_Name
+      value: Base4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f0553549b8dc044eac949641f492079, type: 3}
@@ -2515,11 +2513,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 198558653380246573, guid: 3f0553549b8dc044eac949641f492079,
-        type: 3}
-      propertyPath: m_Name
-      value: Base
-      objectReference: {fileID: 0}
     - target: {fileID: 198558653380246561, guid: 3f0553549b8dc044eac949641f492079,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2579,6 +2572,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.x
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 198558653380246573, guid: 3f0553549b8dc044eac949641f492079,
+        type: 3}
+      propertyPath: m_Name
+      value: Base1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f0553549b8dc044eac949641f492079, type: 3}
